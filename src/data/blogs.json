@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "title": "Bookg",
+    "text": "Need a sleek and user-friendly booking platform? Bookg is here to transform your reservation system into a seamless experience. From appointment scheduling to event reservations, Bookg offers a professionally designed interface that simplifies the booking process for both businesses and customers.",
+    "img": "https://www.abdullahibnshahin.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ff9anspt6%2Fproduction%2F7c6c44202e1e9f4a4ce193fea6049bfe6ad2d028-1536x1536.jpg&w=2048&q=75",
+    "buttonText": "Read more",
+    "fullText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis temporibus vel ea maxime, accusantium incidunt a consequatur recusandae laboriosam numquam quibusdam ullam fugit, praesentium aspernatur amet? Modi qui reprehenderit, amet tempora repellendus quasi nulla, sapiente, dolorum ipsa at sit nesciunt?"
+  },
+  {
+    "id": "2",
+    "title": "Tourist.io",
+    "text": "Explore cities like never before with Tourist.oi. This comprehensive platform is designed to provide tourists with the best local experiences, from guided tours to hidden gems. With an intuitive design and rich content, Tourist.oi makes discovering new places easy and exciting. Let's collaborate to bring your travel platform to life!",
+    "img": "https://www.abdullahibnshahin.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ff9anspt6%2Fproduction%2F0f65f2881a91bfd1decf7b17a220b45bab5d32ad-2560x1440.png&w=2048&q=75",
+    "buttonText": "Read more"
+  },
+  {
+    "id": "3",
+    "title": "Recipes Finder App",
+    "text": "Now that you've come this far, let's work together on your next website?",
+    "img": "https://www.abdullahibnshahin.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ff9anspt6%2Fproduction%2F40765845cd12dbb317afaaa4fb48a255375e6375-1536x1536.jpg&w=2048&q=75",
+    "buttonText": "Read more"
+  }
+]
