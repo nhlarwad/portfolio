@@ -1,9 +1,9 @@
 [
   {
     "id": "1",
-    "title": "Bookg",
-    "text": "Need a sleek and user-friendly booking platform? Bookg is here to transform your reservation system into a seamless experience. From appointment scheduling to event reservations, Bookg offers a professionally designed interface that simplifies the booking process for both businesses and customers.",
-    "img": "https://www.abdullahibnshahin.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ff9anspt6%2Fproduction%2F7c6c44202e1e9f4a4ce193fea6049bfe6ad2d028-1536x1536.jpg&w=2048&q=75",
+    "title": "BookFinder",
+    "text": "Developed a note-taking application where users can add, delete, update, and edit notes.Utilized JavaScript, Tailwind CSS, and the Vue.js framework to build a responsive and interactive interface.",
+    "img": "https://www.readingrockets.org/sites/default/files/styles/share_image/public/2023-02/bookfinder-birds.png?itok=4c-SIu2s",
     "buttonText": "Read more",
     "fullText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis temporibus vel ea maxime, accusantium incidunt a consequatur recusandae laboriosam numquam quibusdam ullam fugit, praesentium aspernatur amet? Modi qui reprehenderit, amet tempora repellendus quasi nulla, sapiente, dolorum ipsa at sit nesciunt?"
   },

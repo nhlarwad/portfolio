@@ -105,7 +105,7 @@ import { RouterLink } from "vue-router";
     <div
       class="flex justify-center bg-gray-800 text-white py-2 px-4 border border-gray-300 rounded-lg shadow-sm hover:bg-gray-200 focus:outline-none focus:ring-2 focus:ring-gray-300"
     >
-      <router-link to="/project" class="">View All</router-link>
+      <router-link to="/project" class="">View All </router-link>
     </div>
 
     <div class="p-4 text-base md:text-lg lg:text-xl">
