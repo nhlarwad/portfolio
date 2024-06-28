@@ -5,7 +5,7 @@ import { RouterLink } from "vue-router";
 <template>
   <div class="w-600 p-10 bg-white text-base md:text-lg lg:text-xl">
     <div class="text-3xl">
-      <h1>Building Websites for 3+ Years.</h1>
+      <h1>Building Websites for 2+ Years.</h1>
       <div class="whitespace-normal text-gray-400">
         <h2>Empowering Innovation Across the Digital Landscape.</h2>
       </div>
@@ -13,12 +13,12 @@ import { RouterLink } from "vue-router";
 
     <div class="text-sm text-gray-600 pt-2">
       <p>
-        I'm Nihal Ariful, a seasoned Software Engineer with a decade-long journey
-        sculpting digital landscapes to propel businesses worldwide. With expertise
-        spanning web design and development, I thrive on creating user-centric solutions
-        that seamlessly blend creativity with functionality. My forte lies in strategic
-        optimization, ensuring every line of code contributes to enhanced user experiences
-        and business success
+        Hey There, I'm Ariful Nial, an enthusiastic person with a burning desire to learn.
+        I love solving problems and have a passion for coding. With a strong background in
+        HTML, CSS, JavaScript, Vue.js, Node.js, Express.js, and EJS, I also have
+        additional experience in UX design and Firebase. Currently, I'm pursuing my
+        Bachelor's degree in Information Technology and I'm excited to leverage my skills
+        and experience in a professional environment.
       </p>
     </div>
     <div class="pt-2">
@@ -50,7 +50,7 @@ import { RouterLink } from "vue-router";
           A curated collection of elegant and practical recipes designed with care and
           passion.
         </p>
-        <a href="#" class="text-gray-500 hover:underline">
+        <a href="https://github.com/nhlarwad" class="text-gray-500 hover:underline">
           Brows to Github <i class="fas fa-external-link-alt"></i
         ></a>
       </div>
@@ -67,38 +67,43 @@ import { RouterLink } from "vue-router";
     <div class="pl-8 my-6 border rounded-md p-4 pt-3">
       <i class="fas fa-pencil-alt text-3xl text-gray-600 mb-4"></i>
 
-      <p class="text-2xl">Bookg</p>
+      <p class="text-2xl">Tv Shows App</p>
       <p class="text-sm text-gray-600">
-        Need a sleek and user-friendly booking platform? Bookg is here to transform your
-        reservation system into a seamless experience. From appointment scheduling to
-        event reservations, Bookg offers a professionally designed interface that
-        simplifies the booking process for both businesses and customers.
+        Built a TvShow finder application that integrates with a third-party API to search
+        for shows. Developed using JavaScript, Tailwind CSS, and the Vue.js framework.
+        Implemented features such as search functionality, book details display, and user
+        interactions.
       </p>
       <div class="flex justify-center">
-        <router-link
+        <a
+          href="https://github.com/nhlarwad"
+          target="_blank"
+          rel="noopener noreferrer"
           class="text-gray-500 flex p-4 border bg-gray-100 rounded-lg my-2 py-1 px-4"
         >
-          + More Info
-        </router-link>
+          + Browse to GitHub
+        </a>
       </div>
     </div>
 
     <div class="pl-8 my-6 border rounded-md p-4 pt-3">
       <i class="fas fa-pencil-alt text-3xl text-gray-600 mb-4"></i>
 
-      <p class="text-2xl">Tourist.oi</p>
+      <p class="text-2xl">Dandelion Design</p>
       <p class="text-sm text-gray-600">
-        Explore cities like never before with Tourist.oi. This comprehensive platform is
-        designed to provide tourists with the best local experiences, from guided tours to
-        hidden gems. With an intuitive design and rich content, Tourist.oi makes
-        discovering new places easy and exciting. Let's collaborate to bring your travel
-        platform to life!
+        Developed a comprehensive web application for Dandelion Design using Node.js,
+        Express.js, and EJS. Implemented backend server-side logic with modular routing
+        for admin and client functionalities. Utilized middleware for error handling and
+        authentication to enhance security and user experience. Designed dynamic views
+        using EJS templates for consistent and responsive UI components. Integrated
+        Cloudinary for efficient media asset management and Firebase for backend services,
+        including authentication and database management.
       </p>
       <div class="flex justify-center">
         <button
           class="text-gray-500 flex p-4 border bg-gray-100 rounded-lg my-2 py-1 px-4"
         >
-          + More Info
+          + Browse to GitHub
         </button>
       </div>
     </div>
@@ -243,9 +248,11 @@ import { RouterLink } from "vue-router";
           />
         </div>
         <div class="my-4 p-4">
-          <a href="" class="text-3xl p-1 underline">The Effects of Stress on Your Body</a>
+          <a href="" class="text-3xl p-1 underline"
+            >Mastering Vue.js for Modern Web Development</a
+          >
           <p class="my-2 text-gray-500 text-sm">
-            Now that you've come this far, let's work together on your next website?
+            Tips and Tricks for Building Interactive Web Applications with Vue.js
           </p>
         </div>
       </div>
@@ -257,7 +264,9 @@ import { RouterLink } from "vue-router";
           />
         </div>
         <div class="my-4 p-4">
-          <a href="" class="text-3xl p-1 underline">The Effects of Stress on Your Body</a>
+          <a href="" class="text-3xl p-1 underline"
+            >Enhancing User Experience with Client-Side Navigation</a
+          >
           <p class="my-2 text-gray-500 text-sm">
             Now that you've come this far, let's work together on your next website?
           </p>

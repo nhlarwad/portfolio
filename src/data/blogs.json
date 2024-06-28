@@ -1,24 +1,39 @@
 [
   {
     "id": "1",
-    "title": "BookFinder",
-    "text": "Developed a note-taking application where users can add, delete, update, and edit notes.Utilized JavaScript, Tailwind CSS, and the Vue.js framework to build a responsive and interactive interface.",
-    "img": "https://www.readingrockets.org/sites/default/files/styles/share_image/public/2023-02/bookfinder-birds.png?itok=4c-SIu2s",
-    "buttonText": "Read more",
-    "fullText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis temporibus vel ea maxime, accusantium incidunt a consequatur recusandae laboriosam numquam quibusdam ullam fugit, praesentium aspernatur amet? Modi qui reprehenderit, amet tempora repellendus quasi nulla, sapiente, dolorum ipsa at sit nesciunt?"
+    "title": "TV Shows",
+    "text": " Built a TvShow finder application that integrates with a third-party API to search for shows. Developed using JavaScript, Tailwind CSS, and the Vue.js framework. Implemented features such as search functionality, book details display, and user interactions.",
+    "img": "http://res.cloudinary.com/ybmedia/image/upload/c_crop,h_863,w_1536,x_0,y_142/c_fill,f_auto,h_900,q_auto,w_1600/v1/m/e/d/ed33e854563fa37192686bef3e94e8b553e1e3b5/tv-shows-produced-episodes.jpg",
+    "buttonText": "Read more"
+   
   },
   {
     "id": "2",
-    "title": "Tourist.io",
-    "text": "Explore cities like never before with Tourist.oi. This comprehensive platform is designed to provide tourists with the best local experiences, from guided tours to hidden gems. With an intuitive design and rich content, Tourist.oi makes discovering new places easy and exciting. Let's collaborate to bring your travel platform to life!",
-    "img": "https://www.abdullahibnshahin.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ff9anspt6%2Fproduction%2F0f65f2881a91bfd1decf7b17a220b45bab5d32ad-2560x1440.png&w=2048&q=75",
+    "title": "Dandelion",
+    "text": "Developed a comprehensive web application for Dandelion Design using Node.js, Express.js, and EJS. Implemented backend server-side logic with modular routing for admin and client functionalities. Utilized middleware for error handling and authentication to enhance security and user experience. Designed dynamic viewsusing EJS templates for consistent and responsive UI components. Integrated Cloudinary for efficient media asset management and Firebase for backend services, including authentication and database management.",
+    "img": "https://www.freevector.com/uploads/vector/preview/9592/FreeVector-Dandelion-Design.jpg",
     "buttonText": "Read more"
   },
   {
     "id": "3",
-    "title": "Recipes Finder App",
-    "text": "Now that you've come this far, let's work together on your next website?",
-    "img": "https://www.abdullahibnshahin.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ff9anspt6%2Fproduction%2F40765845cd12dbb317afaaa4fb48a255375e6375-1536x1536.jpg&w=2048&q=75",
+    "title": "Live ChatApp",
+    "text": "Built a TvShow finder application that integrates with a third-party API to search for shows. Developed using JavaScript, Tailwind CSS, and the Vue.js framework. Implemented features such as search functionality, book details display, and user interactions.",
+    "img": "https://kumospace.mo.cloudinary.net/https://content.kumospace.com/hubfs/iStock-1399490437.jpg?tx=w_responsive:fallback-max-width_1224;fallback-max-width-mobile_720",
+    "buttonText": "Read more"
+  },
+  {
+    "id": "4",
+    "title": "Note Taking Application",
+    "text": "Developed a note-taking application where users can add, delete, update, and edit notes. Utilized JavaScript, Tailwind CSS, and the Vue.js framework to build a responsive and interactive interface.",
+    "img": "https://collegeinfogeek.com/wp-content/uploads/2020/01/best-note-taking-apps-for-ipad-featured.jpg",
+    "buttonText": "Read more"
+  },
+  {
+    "id": "5",
+    "title": "Quiz Application",
+    "text": "Built a TvShow finder application that integrates with a third-party API to search for shows. Developed using JavaScript, Tailwind CSS, and the Vue.js framework. Implemented features such as search functionality, book details display, and user interactions.",
+    "img": "https://www.sourcecodester.com/sites/default/files/images/rems/qa.png",
     "buttonText": "Read more"
   }
+
 ]

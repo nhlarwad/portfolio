@@ -5,13 +5,18 @@
     <div class="flex items-center space-x-4 text-base md:text-lg lg:text-xl">
       <p class="text-sm text-gray-800">&copy;2024 Nial Ariful</p>
     </div>
-    <div class="flex space-x-8">
+
+    <div class="flex space-x-4">
       <div class="h-6 border-l border-gray-600 hidden md:block"></div>
-      <div class="flex space-x-4">
-        <a href="#"><i class="fab fa-linkedin text-gray-800"></i></a>
-        <a href="#"><i class="fab fa-github text-gray-800"></i></a>
-        <a href="#"><i class="fab fa-dribbble text-gray-800"></i></a>
-      </div>
+      <a href="https://www.linkedin.com/in/nihal-0a4876233/"
+        ><i class="fab fa-linkedin text-gray-800"></i
+      ></a>
+      <a href="https://github.com/nhlarwad"
+        ><i class="fab fa-github text-gray-800"></i
+      ></a>
+      <a href="https://dribbble.com/nihal45"
+        ><i class="fab fa-dribbble text-gray-800"></i
+      ></a>
     </div>
   </footer>
 </template>

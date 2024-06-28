@@ -18,7 +18,7 @@ const showProfile = ref(true);
           </a>
         </div>
         <div>
-          <h1 class="text-xl font-semibold">Nial Ariful</h1>
+          <h1 class="text-xl font-semibold">Ariful Nihal</h1>
           <p class="text-sm text-gray-800">Software Engineer</p>
         </div>
         <!-- <div v-if="showProfile" class="absolute top-40 left-1/2 transform -translate-x-1/2 w-80 h-auto z-50 bg-gray-100 shadow-lg rounded-lg p-6">
@@ -50,9 +50,15 @@ const showProfile = ref(true);
 
       <div class="flex space-x-4">
         <div class="h-6 border-l border-gray-600 hidden md:block"></div>
-        <a href="#"><i class="fab fa-linkedin text-gray-800"></i></a>
-        <a href="#"><i class="fab fa-github text-gray-800"></i></a>
-        <a href="#"><i class="fab fa-dribbble text-gray-800"></i></a>
+        <a href="https://www.linkedin.com/in/nihal-0a4876233/"
+          ><i class="fab fa-linkedin text-gray-800"></i
+        ></a>
+        <a href="https://github.com/nhlarwad"
+          ><i class="fab fa-github text-gray-800"></i
+        ></a>
+        <a href="https://dribbble.com/nihal45"
+          ><i class="fab fa-dribbble text-gray-800"></i
+        ></a>
       </div>
     </nav>
   </body>
